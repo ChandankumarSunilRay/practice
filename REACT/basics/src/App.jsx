@@ -1,5 +1,4 @@
-import { useState } from 'react'
-import './App.css'
+import react from 'react'
 import Home from './components/ui/Home'
 
 function App() {
