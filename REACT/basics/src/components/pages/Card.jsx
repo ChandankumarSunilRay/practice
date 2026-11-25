@@ -6,7 +6,7 @@ const Card = ({title, price}) => {
       <h2 className="text-xl font-bold">{title}</h2>
       <p>₹{price}</p>
 
-      <button className="bg-amber-400 text-white rounded-lg p-2">
+      <button className="bg-blue-400 text-white rounded-lg p-2">
         Book Now
       </button>
     </div>
