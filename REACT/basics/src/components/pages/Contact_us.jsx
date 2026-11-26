@@ -29,7 +29,7 @@ const Contact_us = () => {
           className='border rounded-md p-2 '
         />
 
-          <button type="submit" className="bg-amber-900 text-white self-center rounded-md mt-3.5 mb-1.5 cursor-pointer">
+        <button type="submit" className="bg-amber-900 text-white self-center rounded-md mt-3.5 mb-1.5 cursor-pointer">
           Submit
         </button>
 
